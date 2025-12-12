@@ -19,4 +19,6 @@ clean:
 	results/figure/isles.png \
 	results/figure/abyss.png \
 	results/figure/last.png \
-	results/figure/sierra.png
+	results/figure/sierra.png \
+	report/count_report.html
+	rm -rf report/count_report_files/
